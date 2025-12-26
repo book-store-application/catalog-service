@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles version="12">
+    <profile kind="CodeFormatterProfile" name="Spotless" version="12">
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_type_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_method_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_block" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.insert_new_line_in_empty_type_declaration" value="true"/>
+    </profile>
+</profiles>

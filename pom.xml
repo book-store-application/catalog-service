@@ -179,9 +179,9 @@
                     <java>
                         <importOrder />
                         <removeUnusedImports />
-                        <palantirJavaFormat>
-                            <version>2.74.0</version>
-                        </palantirJavaFormat>
+                        <eclipse>
+                            <file>${basedir}/spotless/eclipse-formatter.xml</file>
+                        </eclipse>
                         <formatAnnotations />
                     </java>
                 </configuration>
